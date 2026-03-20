@@ -34,6 +34,25 @@ Note: Due to size limitations, only a sample dataset is included.
 Interactive version: 
 [Open interactive map](Interactive/mexico_2025.html)
 
+
+## Implications
+
+- Logistics operations may require route optimization to minimize exposure.
+- Security strategies could focus on identified high-risk zones.
+- Insurance and risk assessment models can benefit from spatial analysis.
+
+## Limitations
+
+- Data availability and completeness may affect accuracy.
+- Analysis does not account for temporal variations (time of day, seasonality).
+- Results depend on the quality of geospatial data.
+
+## Future Work
+
+- Incorporate temporal analysis to detect time-based patterns.
+- Apply clustering algorithms (e.g., DBSCAN) for deeper hotspot detection.
+- Integrate real-time data sources for dynamic monitoring.
+
 ## Sources
 
 - Sources will be updated soon.
