@@ -1,0 +1,6 @@
+# Datos Pesados
+*.csv
+*.json
+*.geojson
+*.shp
+*.html
