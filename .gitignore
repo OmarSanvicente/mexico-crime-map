@@ -3,7 +3,7 @@
 *.json
 *.geojson
 *.shp
-*.html
+
 
 # Ignorar notebooks grandes específicos
 Mapa*.ipynb
