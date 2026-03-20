@@ -4,3 +4,13 @@
 *.geojson
 *.shp
 *.html
+
+# Ignorar notebooks grandes específicos
+Mapa*.ipynb
+Notebook/Mapa*.ipynb
+
+# Ignorar notebook pesado específico
+/Mapa Mexico.ipynb
+
+# Ignorar cualquier variante por seguridad
+*Mapa*.ipynb
