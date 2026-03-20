@@ -10,14 +10,13 @@ To visualize and analyze the distribution of crimes across main transportation r
 
 The dataset contains crime records associated with major roads.
 
-Note: Due to size limitations, only a sample dataset is included.
 
 ## Tools & Libraries
 
 - Python
 - Pandas
 - Geopandas
-- Folium / Plotly (según uses)
+- Plotly
 - Matplotlib
 
 ## Methodology
@@ -35,27 +34,34 @@ Interactive version:
 [Open interactive map](Interactive/mexico_2025.html)
 
 
-## Implications
+## Conclusions
 
-- Logistics operations may require route optimization to minimize exposure.
-- Security strategies could focus on identified high-risk zones.
-- Insurance and risk assessment models can benefit from spatial analysis.
+### Implications
 
-## Limitations
+- This analysis provides a practical tool for decision-making in logistics and transportation, enabling companies to evaluate safer routing alternatives.
+- It supports trade-offs between cost (time and fuel) and risk exposure, allowing for more informed route planning.
+- The dataset focuses specifically on highway-related incidents, making it particularly relevant for logistics, delivery operations, and supply chain security.
+- The insights can be used to assess risk levels when transporting high-value goods, helping organizations design safer distribution strategies.
 
-- Data availability and completeness may affect accuracy.
-- Analysis does not account for temporal variations (time of day, seasonality).
-- Results depend on the quality of geospatial data.
+### Limitations
 
-## Future Work
+- This geospatial analysis does not include time series modeling, although it aggregates incidents throughout 2025.
+- Seasonal patterns (daily, weekly, or monthly variations) are not considered.
+- The analysis is limited to major highways due to data density and processing constraints, potentially excluding secondary or rural routes.
 
-- Incorporate temporal analysis to detect time-based patterns.
-- Apply clustering algorithms (e.g., DBSCAN) for deeper hotspot detection.
-- Integrate real-time data sources for dynamic monitoring.
+### Future Work
+
+- Incorporate temporal analysis to identify patterns by time of day, day of the week, or seasonality, enabling more precise risk assessment.
+- Integrate near real-time or periodically updated datasets to maintain current risk evaluations.
+- Expand coverage to include secondary roads and additional geographic layers for a more comprehensive analysis.
 
 ## Sources
 
-- Sources will be updated soon.
+- Roads of México
+https://www.inegi.org.mx/temas/viascomunicacion/
+
+- Crime incidence of México
+https://www.gob.mx/sesnsp/acciones-y-programas/datos-abiertos-de-incidencia-delictiva
 
 ## Author
 
