@@ -29,9 +29,9 @@ Note: Due to size limitations, only a sample dataset is included.
 
 ## Results
 
-![Crime Map](images/"Mapa Mexico asaltos".png)
+![Crime distribution map showing assault incidents across major Mexican highways with density heat mapping and geographical markers indicating hotspot locations along transportation routes](images/Mapa%20Mexico%20asaltos.png)
 
-🔗 Interactive version: [Open map](interactive/"Mapa Mexico asaltos".html)
+Interactive version: [Open map](interactive/"Mapa Mexico asaltos".html)
 
 ## Sources
 
