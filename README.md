@@ -36,7 +36,7 @@ The dataset contains crime records associated with major roads.
 Here is a interactive version of the previous map, it contains the heatmap and the principal roads of México
 
 
-🌐 [View interactive map](https://omarsanvicente.github.io/mexico-crime-map/Interactive/mapa_mexico_2025.html)
+🌐 [View interactive map](https://omarsanvicente.github.io/mexico-crime-map/Interactive/mexico_2025.html)
 
 
 ## Conclusions
