@@ -30,8 +30,13 @@ The dataset contains crime records associated with major roads.
 
 ![Crime distribution map showing assault incidents across major Mexican highways with density heat mapping and geographical markers indicating hotspot locations along transportation routes](Images/Mapa%20Mexico%20asaltos.png)
 
-Interactive version: 
-[Open interactive map](Interactive/mexico_2025.html)
+
+### Interactive Visualization
+
+Here is a interactive version of the previous map, it contains the heatmap and the principal roads of México
+
+
+🌐 [View interactive map](https://omarsanvicente.github.io/mexico-crime-map/Interactive/mapa_mexico_2025.html)
 
 
 ## Conclusions
